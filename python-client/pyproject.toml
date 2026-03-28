@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "Sota-gRPC"
-dynamic = ["version"]
+version = "0.1.0"
 description = 'A gRPC client library to control the Vstone Sota robot.'
 readme = "README.md"
 requires-python = ">=3.8"
